@@ -1,0 +1,2 @@
+# imgSlider
+scalable image slider
